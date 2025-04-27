@@ -1,0 +1,17 @@
+html,
+body,
+#root {
+  margin: 30px;
+  padding: 20px;
+  height: 75dvh;
+  width: 75dvw;
+}
+
+body {
+  display: flex;
+  justify-content: center; /* optional: center horizontally */
+  align-items: center; /* optional: center vertically */
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #213547;
+}
